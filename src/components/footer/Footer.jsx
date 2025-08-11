@@ -7,7 +7,7 @@ import { footerGallery } from '../../Data.jsx'
 
 
 
-const Footer = () => {
+const footer = () => {
   return (
     <footer className="footer">
       <div className="footer-container container grid">
@@ -75,4 +75,4 @@ const Footer = () => {
   )
 }
 
-export default Footer
+export default footer
