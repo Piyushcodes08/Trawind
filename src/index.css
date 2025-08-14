@@ -75,8 +75,7 @@
     position: fixed;
     top: 0;
     right: -100%;
-    background-color: hsla(var(--hue), 0%, 100%, 0.4);
-    /* backdrop-filter: blur(16px); */
+    background-color: hsla(var(--hue), 0%, 100%, 0.9); 
     border-left: 2px solid var(--border-color);
     width: 50%;
     height: 100%;
